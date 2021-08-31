@@ -83,7 +83,7 @@ if __name__ == '__main__':
         print(subposid)
         print(sub_indicate)
         print(sub_graph[0:count + 1, 0:count + 1])
-        break
+        #break
         length[ha] = count
         if ha % 100 == 0:
             print(ha)
